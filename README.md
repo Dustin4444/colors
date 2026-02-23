@@ -52,7 +52,6 @@ Some other tests:
 
 - [gist/lilydjwg/colors.py](https://gist.github.com/lilydjwg/fdeaf79e921c2f413f44b6f613f6ad53)
 - https://github.com/robertknight/konsole/tree/master/tests/color-spaces.pl
-- https://github.com/JohnMorales/dotfiles/blob/master/colors/24-bit-color.sh
 - https://git.gnome.org/browse/vte/tree/perf/img.sh
 
 <div style="padding-left: 2rem; border: 1px solid #9cf;">
